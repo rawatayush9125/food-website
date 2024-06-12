@@ -57,8 +57,8 @@ my website releated to food website
 			<button class="btn"> <a href="https://magicpin.in/Allahabad/Civil-Lines/Restaurant/MakkhanS/store/3c749c/"> ORDER NOW</button> </a>
 		</div>
 	</div>
-	<footer>Copyright © 2023-2024 OnlineFoodShop.
-		All Rights are reserved</footer>
+	<footer> Copyright © 2023-2024 OnlineFoodShop.
+		All Rights are reserved </footer>
 </body>
 
 </html>
